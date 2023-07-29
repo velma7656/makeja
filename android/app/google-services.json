@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969244837835",
+    "firebase_url": "https://keja-aa0a8-default-rtdb.firebaseio.com",
+    "project_id": "keja-aa0a8",
+    "storage_bucket": "keja-aa0a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969244837835:android:997d7654f1c2110f85184e",
+        "android_client_info": {
+          "package_name": "com.example.makeja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969244837835-kptklm6cafcakv0ev4s6dch1qd5r7oeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkav7rDOX3wgKmsxjDiCKZdez5_TUr0Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969244837835-kptklm6cafcakv0ev4s6dch1qd5r7oeo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "969244837835-r15e2a3n32h5mt6f5v2jtqdlgniu8qjk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.makeja"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
